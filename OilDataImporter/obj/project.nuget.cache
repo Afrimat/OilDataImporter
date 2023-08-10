@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pIUbeI7iHGvEkHrJ8IElSEExo8ESSPZrCM37uk1PEsgShmvE/bgSCJP5uj49b4qo6dilZoz8x8HOxGVkFPCvxw==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\OilDataImporter\\OilDataImporter\\OilDataImporter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JoshuaJ\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\JoshuaJ\\.nuget\\packages\\winscp\\6.1.1\\winscp.6.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
